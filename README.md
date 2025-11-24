@@ -1,4 +1,4 @@
-﻿# 🐦 Flappy Bird Game
+﻿# Flappy Bird Game
 
 Một game Flappy Bird được phát triển bằng C# WPF với kiến trúc 3 lớp (3-Layer Architecture),
 
@@ -81,6 +81,7 @@ FlappyBird/
 <img width="406" height="593" alt="image" src="https://github.com/user-attachments/assets/c6f2fae5-181c-4be2-bab0-7a5b98a2ddcc" />
 <img width="986" height="603" alt="image" src="https://github.com/user-attachments/assets/e6cbedc6-b94f-4673-8c06-299adab48ff6" />
 <img width="986" height="603" alt="image" src="https://github.com/user-attachments/assets/457b8d49-0d63-46a6-94e7-07fec5480c40" />
+
 
 
 
