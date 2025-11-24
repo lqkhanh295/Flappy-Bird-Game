@@ -1,0 +1,121 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\BGM.mp3" />
+    <None Remove="Assets\birdfall-1.png" />
+    <None Remove="Assets\birdfall-2.png" />
+    <None Remove="Assets\birdfall-3.png" />
+    <None Remove="Assets\birdfly-1.png" />
+    <None Remove="Assets\birdfly-2.png" />
+    <None Remove="Assets\birdfly-3.png" />
+    <None Remove="Assets\Cloud-Day.png" />
+    <None Remove="Assets\Cloud-Night.png" />
+    <None Remove="Assets\DayStage.jpg" />
+    <None Remove="Assets\FlappyBirdTitle.png" />
+    <None Remove="Assets\Generated File November 13, 2025 - 9_09AM.mp4" />
+    <None Remove="Assets\Kubbi - Up In My Jam ♫ NO COPYRIGHT 8-bit Music.mp3" />
+    <None Remove="Assets\LoginPage.jpg" />
+    <None Remove="Assets\LoginWindowBG.mp4" />
+    <None Remove="Assets\NightStage.jpg" />
+    <None Remove="Assets\Pipe-day.png" />
+    <None Remove="Assets\Pipe-night.png" />
+    <None Remove="Assets\PlayButton.png" />
+    <None Remove="Assets\SettingButton.png" />
+    <None Remove="Assets\SkinButton.png" />
+    <None Remove="Assets\NoTouch.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlappyBird.Business\FlappyBird.Business.csproj" />
+    <ProjectReference Include="..\FlappyBird.Data\FlappyBird.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\BGM.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Fail.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\icon.ico" />
+    <Content Include="Assets\Jump.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\LoginWindowBG.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Point.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Assets\birdfall-1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\birdfall-2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\birdfall-3.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\birdfly-1.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\birdfly-2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\birdfly-3.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Cloud-Day.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Cloud-Night.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\DayStage.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\DayGround.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\FlappyBirdTitle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\LoginPage.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\NightStage.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\NightGround.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Pipe-day.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Pipe-night.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\PlayButton.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\SettingButton.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\SkinButton.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\NoTouch.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

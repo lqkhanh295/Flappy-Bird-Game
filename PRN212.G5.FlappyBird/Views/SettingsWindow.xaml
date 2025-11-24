@@ -1,0 +1,254 @@
+<Window x:Class="PRN212.G5.FlappyBird.Views.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game Settings"
+        Height="600" Width="420"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        WindowStyle="SingleBorderWindow"
+        Background="#F0EDE3">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="ButtonGradient" StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Offset="0" Color="#FFF5E2"/>
+            <GradientStop Offset="1" Color="#D6B37C"/>
+        </LinearGradientBrush>
+
+        <Style x:Key="RetroButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource ButtonGradient}"/>
+            <Setter Property="Foreground" Value="#3B2F2F"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Padding" Value="14,6"/>
+            <Setter Property="MinWidth" Value="110"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="BorderThickness" Value="1.6"/>
+            <Setter Property="BorderBrush" Value="#7B6A4D"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="#805C431C"
+                                      BlurRadius="8"
+                                      ShadowDepth="0"/>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="10"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientStop Offset="0" Color="#FFF9EC"/>
+                                            <GradientStop Offset="1" Color="#E4C688"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#8D744A"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                            <GradientStop Offset="0" Color="#E9C27F"/>
+                                            <GradientStop Offset="1" Color="#B99057"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#6B5736"/>
+                                <Setter Property="Foreground" Value="#2E2014"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="VintageSliderStyle" TargetType="Slider">
+            <Setter Property="Height" Value="32"/>
+            <Setter Property="Margin" Value="0,0,0,6"/>
+            <Setter Property="TickPlacement" Value="BottomRight"/>
+            <Setter Property="TickFrequency" Value="0.5"/>
+            <Setter Property="Foreground" Value="#3B2F2F"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Slider">
+                        <Grid Margin="0,6">
+                            <Border Height="8"
+                                    CornerRadius="4"
+                                    VerticalAlignment="Center"
+                                    Background="#D6C29C"/>
+                            <Track x:Name="PART_Track"
+                                   Maximum="{TemplateBinding Maximum}"
+                                   Minimum="{TemplateBinding Minimum}"
+                                   Value="{TemplateBinding Value}">
+                                <Track.DecreaseRepeatButton>
+                                    <RepeatButton Height="8"
+                                                  Command="Slider.DecreaseLarge"
+                                                  Background="#B4935C"
+                                                  BorderBrush="Transparent"
+                                                  BorderThickness="0"/>
+                                </Track.DecreaseRepeatButton>
+                                <Track.IncreaseRepeatButton>
+                                    <RepeatButton Height="8"
+                                                  Command="Slider.IncreaseLarge"
+                                                  Background="Transparent"
+                                                  BorderBrush="Transparent"
+                                                  BorderThickness="0"/>
+                                </Track.IncreaseRepeatButton>
+                                <Track.Thumb>
+                                    <Thumb Width="20"
+                                           Height="20">
+                                        <Thumb.Template>
+                                            <ControlTemplate TargetType="Thumb">
+                                                <Border Background="#FFF4DA"
+                                                        CornerRadius="10"
+                                                        BorderBrush="#8E7346"
+                                                        BorderThickness="1.4"/>
+                                            </ControlTemplate>
+                                        </Thumb.Template>
+                                    </Thumb>
+                                </Track.Thumb>
+                            </Track>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Border Margin="0,16,0,16"
+            Padding="20"
+            CornerRadius="10"
+            BorderThickness="2"
+            BorderBrush="#7B7161"
+            Background="#FBF8EF">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Orientation="Horizontal"
+                        Margin="0,0,0,16"
+                        VerticalAlignment="Center">
+                <Border Width="52"
+                        Height="52"
+                        CornerRadius="12"
+                        Background="#FFF0D0"
+                        BorderBrush="#B79863"
+                        BorderThickness="1.4"
+                        Margin="0,0,16,0">
+                    <Image Source="pack://application:,,,/Assets/SettingButton.png"
+                           Stretch="Uniform"
+                           Margin="-46,-29,-46,-29"/>
+                </Border>
+                <StackPanel>
+                    <TextBlock Text="Game Settings"
+                               FontSize="30"
+                               FontWeight="Bold"
+                               Foreground="#3B2F2F" Height="52"/>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1">
+                <!-- Pipe Speed Setting -->
+                <Border Padding="18"
+                        CornerRadius="8"
+                        Background="#E8DFC5"
+                        BorderBrush="#B29A6E"
+                        BorderThickness="1.4"
+                        Margin="0,0,0,16">
+                    <StackPanel>
+                        <TextBlock Text="Pipe speed"
+                                   FontSize="15"
+                                   FontWeight="SemiBold"
+                                   Foreground="#3B2F2F"/>
+                        <TextBlock x:Name="PipeSpeedValueText"
+                                   Margin="0,6,0,14"
+                                   FontSize="32"
+                                   FontWeight="Black"
+                                   Foreground="#234A4A"
+                                   TextAlignment="Center"
+                                   Text="5.0"/>
+
+                        <Slider x:Name="PipeSpeedSlider"
+                                Minimum="3"
+                                Maximum="10"
+                                TickFrequency="0.5"
+                                IsSnapToTickEnabled="True"
+                                ValueChanged="PipeSpeedSlider_OnValueChanged"
+                                Style="{StaticResource VintageSliderStyle}"/>
+
+                        <TextBlock Margin="0,14,0,0"
+                                   Text="Tip: 3.0 for warm-ups • 5.0 default challenge • 8.0+ reserved for experts."
+                                   FontSize="11.5"
+                                   TextWrapping="Wrap"
+                                   Foreground="#5F4934"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Music Volume Setting -->
+                <Border Padding="18"
+                        CornerRadius="8"
+                        Background="#E8DFC5"
+                        BorderBrush="#B29A6E"
+                        BorderThickness="1.4">
+                    <StackPanel>
+                        <TextBlock Text="Music volume"
+                                   FontSize="15"
+                                   FontWeight="SemiBold"
+                                   Foreground="#3B2F2F"/>
+                        <TextBlock x:Name="VolumeValueText"
+                                   Margin="0,6,0,14"
+                                   FontSize="32"
+                                   FontWeight="Black"
+                                   Foreground="#234A4A"
+                                   TextAlignment="Center"
+                                   Text="50"/>
+
+                        <Slider x:Name="VolumeSlider"
+                                Minimum="0"
+                                Maximum="100"
+                                TickFrequency="5"
+                                IsSnapToTickEnabled="True"
+                                ValueChanged="VolumeSlider_OnValueChanged"
+                                Style="{StaticResource VintageSliderStyle}"/>
+
+                        <TextBlock Margin="0,14,0,0"
+                                   Text="Adjust the background music volume to your preference (0 = mute, 100 = max)."
+                                   FontSize="11.5"
+                                   TextWrapping="Wrap"
+                                   Foreground="#5F4934"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        Margin="0,20,0,0">
+                <Button Content="Default"
+                        Margin="0,0,14,0"
+                        Style="{StaticResource RetroButtonStyle}"
+                        Click="DefaultButton_Click" Width="36"/>
+                <Button Content="Cancel"
+                        Margin="0,0,14,0"
+                        Style="{StaticResource RetroButtonStyle}"
+                        Click="CancelButton_Click" Width="101"/>
+                <Button Content="Apply"
+                        Style="{StaticResource RetroButtonStyle}"
+                        Click="ApplyButton_Click"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

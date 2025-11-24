@@ -1,0 +1,216 @@
+﻿<Window x:Class="PRN212.G5.FlappyBird.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Flappy Bird"
+        Height="610"
+        Width="1000"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Loaded="Window_Loaded">
+
+    <Grid Background="RosyBrown">
+        <MediaElement x:Name="mediaBGElement"
+              Source="Assets/LoginWindowBG.mp4"
+              LoadedBehavior="Manual"
+              UnloadedBehavior="Stop"
+              Stretch="UniformToFill"
+              MediaEnded="MediaBGElement_MediaEnded"
+              Panel.ZIndex="-1"
+              ScrubbingEnabled="True"/>
+        <Image Source="/Assets/birdfly-1.png"
+               Canvas.Left="700" Canvas.Top="140"
+               Panel.ZIndex="10"
+               RenderTransformOrigin="0.691,0.562"
+               RenderOptions.BitmapScalingMode="HighQuality" Margin="496,160,210,272">
+        </Image>
+
+        <StackPanel x:Name="StartPanelUI"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Panel.ZIndex="26"
+                    IsHitTestVisible="True"
+                    Visibility="Visible">
+
+            <Image Source="pack://application:,,,/assets/FlappyBirdTitle.png"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,16"
+                    IsHitTestVisible="False"
+                    Width="602"
+                    Height="231"
+                    Stretch="Uniform">
+                <Image.Effect>
+                    <DropShadowEffect BlurRadius="6"
+                                      ShadowDepth="0"
+                                      Color="White"
+                                      Opacity="0.95" />
+                </Image.Effect>
+            </Image>
+
+            <Button x:Name="StartButton"
+                    Width="240"
+                    Height="120"
+                    Background="#FFFDFDFD"
+                    BorderBrush="#8E8E8E"
+                    BorderThickness="3"
+                    Click="StartButton_Click"
+                    Cursor="Hand"
+                    Padding="0"
+                    Margin="0,10,0,0">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Border x:Name="border"
+                                            CornerRadius="20"
+                                            Background="{TemplateBinding Background}"
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            Padding="{TemplateBinding Padding}">
+                                        <ContentPresenter HorizontalAlignment="Center"
+                                                          VerticalAlignment="Center" />
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter TargetName="border"
+                                                    Property="Background"
+                                                    Value="#E0E0E0" />
+                                            <Setter TargetName="border"
+                                                    Property="BorderBrush"
+                                                    Value="#666666" />
+                                        </Trigger>
+                                        <Trigger Property="IsPressed" Value="True">
+                                            <Setter TargetName="border"
+                                                    Property="Background"
+                                                    Value="#D0D0D0" />
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <Grid Width="240"
+                          Height="120">
+                        <Image Source="pack://application:,,,/Assets/PlayButton.png"
+                               Stretch="Uniform"
+                               Width="445"
+                               Height="230"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center" />
+                    </Grid>
+                </Button.Content>
+            </Button>
+
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        Margin="0,14,0,0">
+                <Button x:Name="SettingsButton"
+                        Width="120"
+                        Height="120"
+                        Background="#FFFDFDFD"
+                        BorderBrush="#8E8E8E"
+                        BorderThickness="3"
+                        Cursor="Hand"
+                        Padding="0"
+                        Margin="0,0,10,0"
+                        ToolTip="Settings"
+                        Click="SettingsButton_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border x:Name="border"
+                                                CornerRadius="20"
+                                                Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                Padding="{TemplateBinding Padding}">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                              VerticalAlignment="Center" />
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter TargetName="border" Property="Background" Value="#E0E0E0" />
+                                                <Setter TargetName="border" Property="BorderBrush" Value="#666666" />
+                                            </Trigger>
+                                            <Trigger Property="IsPressed" Value="True">
+                                                <Setter TargetName="border" Property="Background" Value="#D0D0D0" />
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                    <Button.Content>
+                        <Grid Width="120"
+                              Height="120">
+                            <Image Source="pack://application:,,,/Assets/SettingButton.png"
+                                   Stretch="Uniform"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Height="224"
+                                   Width="355" />
+                        </Grid>
+                    </Button.Content>
+                </Button>
+
+                <Button x:Name="SkinsButton"
+                        Width="120"
+                        Height="120"
+                        Background="#FFFDFDFD"
+                        BorderBrush="#8E8E8E"
+                        BorderThickness="3"
+                        Cursor="Hand"
+                        Padding="0"
+                        Margin="10,0,0,0"
+                        ToolTip="Skins"
+                        Click="SkinsButton_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border x:Name="border"
+                                                CornerRadius="20"
+                                                Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                Padding="{TemplateBinding Padding}">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                              VerticalAlignment="Center" />
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter TargetName="border" Property="Background" Value="#E0E0E0" />
+                                                <Setter TargetName="border" Property="BorderBrush" Value="#666666" />
+                                            </Trigger>
+                                            <Trigger Property="IsPressed" Value="True">
+                                                <Setter TargetName="border" Property="Background" Value="#D0D0D0" />
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                    <Button.Content>
+                        <Grid Width="120"
+                              Height="120">
+                            <Image Source="pack://application:,,,/Assets/SkinButton.png"
+                                   Stretch="Uniform"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Height="224"
+                                   Width="349" />
+                        </Grid>
+                    </Button.Content>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
