@@ -1,1 +1,132 @@
-‣汆灡祰䈠物⁤慇敭਍਍⁁敦瑡牵ⵥ楲档䘠慬灰⁹楂摲挠潬敮戠極瑬眠瑩⁨⨪偗⁆⸨䕎⥔⨪甠楳杮愠挠敬湡⨠㌪氭祡牥愠捲楨整瑣牵⩥⸪䐠癥汥灯摥愠⁳⁡牧畯⁰牰橯捥⁴潦⁲桴⁥剐㉎㈱挠畯獲⹥਍਍⌣䘠慥畴敲൳ഊⴊ⨠䌪慬獳捩䘠慬灰⁹楂摲朠浡灥慬⩹‪胢ₔ慴⁰灓捡⁥潴映慬Ɒ愠潶摩瀠灩獥愠摮漠獢慴汣獥਍‭⨪祄慮業⁣楤晦捩汵祴猠慣楬杮⨪钀猠数摥椠据敲獡獥‬湡浩瑡摥瀠灩獥愠灰慥Ⱳ愠摮渠睥漠獢慴汣⁥祴数⁳灳睡⁮獡礠畯⁲捳牯⁥汣浩獢਍‭⨪慄⽹楎桧⁴祣汣⩥‪胢ₔ浳潯桴琠敨敭琠慲獮瑩潩獮琠楲杧牥摥戠⁹湩札浡⁥慧整⁳牯琠敨丠欠祥਍‭⨪″楢摲猠楫獮⨪钀夠汥潬⁷䌨慬獳捩Ⱙ䜠敲湥‬湡⁤畐灲敬‬慥档眠瑩⁨湵煩敵映祬是污⁬灳楲整⁳潦⁲潢桴琠敨敭൳ⴊ⨠䄪楮慭整⁤楰数⩳‪胢ₔ獯楣汬瑡湩Ⱨ琠牡敧⵴潭敶敭瑮‬湡⁤番灭瀭瑡整湲愠楮慭楴湯⁳桴瑡椠瑮湥楳祦眠瑩⁨捳牯൥ⴊ⨠䜪潲灵瀠灩獥⠠瑓楡捲獡⥥⨪钀挠畬瑳牥⁳景㈠胢㒓瀠灩獥愠牲湡敧⁤湩愠捳湥楤杮搯獥散摮湩⁧瑳楡捲獡⁥潦浲瑡潩獮਍‭⨪潎潔捵⁨扯瑳捡敬⩳‪胢ₔ潢湵楣杮栠穡牡獤琠慨⁴灳睡⁮湩椠据敲獡湩⁧畮扭牥⁳晡整⁲〱瀠灩獥਍‭⨪慇整⩳‪胢ₔ潣汬捥楴汢⁥潰瑲污⁳桴瑡琠杯汧⁥桴⁥慤⽹楮桧⁴桴浥൥ⴊ⨠倪牥楳瑳湥⁴楨桧猠潣敲⨪钀猠癡摥氠捯污祬琠⁯楦敬਍‭⨪慂正牧畯摮洠獵捩☠猠畯摮攠晦捥獴⨪钀䈠䵇眠瑩⁨潬灯湩Ⱨ樠浵⽰潰湩⽴慦汩匠塆਍‭⨪楖敤⁯慢正牧畯摮⨪钀愠楮慭整⁤潬楧⁮捳敲湥眠瑩⁨潬灯湩⁧偍ഴⴊ⨠䌪湯楦畧慲汢⁥楰数猠数摥⨪钀愠橤獵慴汢⁥牦浯㌠琠⁯〱瘠慩匠瑥楴杮൳ഊ⌊‣牁档瑩捥畴敲਍਍桔⁥牰橯捥⁴潦汬睯⁳⁡⨪ⴳ慬敹⁲牡档瑩捥畴敲⨪眠瑩⁨汣慥⁲敳慰慲楴湯漠⁦潣据牥獮ഺഊ怊恠਍汆灡祰楂摲慇敭献湬਍铢ං鲔铢肔倠乒ㄲ⸲㕇䘮慬灰䉹物⽤††††‣牐獥湥慴楴湯䰠祡牥⠠偗⥆਍铢₂†铢肔铢₀潌楧坮湩潤⹷慸汭ⸯ獣†††‣潌楧⁮捳敲湥⬠䈠䵇⬠瘠摩潥戠捡杫潲湵൤芔†鲔铢肔䴠楡坮湩潤⹷慸汭ⸯ獣†††⌠䌠牯⁥慧敭眠湩潤⁷…慧敭氠潯൰芔†鲔铢肔匠汥捥却楫⹮慸汭ⸯ獣†††⌠䈠物⁤歳湩猠汥捥楴湯唠൉芔†鲔铢肔嘠敩獷യ芔†芔†钔铢肔匠瑥楴杮坳湩潤⹷慸汭ⸯ獣†‣灓敥⁤…潶畬敭猠瑥楴杮൳芔†鲔铢肔䠠汥数獲യ芔†芔†鲔铢肔䄠楮慭楴湯效灬牥挮⁳†⌠䐠祡港杩瑨琠慲獮瑩潩獮‬敤瑡⁨湡浩瑡潩൮芔†芔†鲔铢肔䄠獳瑥效灬牥挮⁳†††⌠䄠獳瑥瀠瑡⁨…楢浴灡氠慯楤杮甠楴楬楴獥਍铢₂†铢₂†铢肔铢₀楂摲牆浡䵥湡条牥挮⁳†‣楂摲猠牰瑩⁥牦浡⁥慭慮敧敭瑮瀠牥猠楫⽮桴浥൥芔†芔†鲔铢肔䜠浡啥剉湥敤敲⹲獣††⌠䌠敲瑡獥☠甠摰瑡獥瀠灩⽥汣畯⽤扯瑳捡敬唠⁉汥浥湥獴਍铢₂†铢₂†铢肔铢₀潓湵䡤汥数⹲獣†††⌠匠畯摮攠晦捥⁴汰祡慢正਍铢₂†铢肔铢₀獁敳獴 †††††††††‣浉条獥‬畡楤Ɐ瘠摩潥爠獥畯捲獥਍铢ං鲔铢肔䘠慬灰䉹物⹤畂楳敮獳 ††††⌠䈠獵湩獥⁳潌楧⁣慌敹൲芔†鲔铢肔䴠摯汥⽳਍铢₂†铢₂†铢肔铢₀楂摲瑓瑡⹥獣†††††‣楂摲瀠獯瑩潩Ɱ猠数摥‬潲慴楴湯‬湡浩瑡潩⁮瑳瑡൥芔†芔†鲔铢肔䌠潬摵瑓瑡⹥獣††††⌠䌠潬摵瀠獯瑩潩⁮湡⁤楳敺਍铢₂†铢₂†铢肔铢₀慇整瑓瑡⹥獣†††††‣慇整瀠獯瑩潩⁮湡⁤捡楴慶楴湯猠慴畴൳芔†芔†鲔铢肔丠呯畯档瑓瑡⹥獣†††⌠丠呯畯档漠獢慴汣⁥潰楳楴湯愠摮漠捳汩慬楴湯਍铢₂†铢₂†铢肔铢₀楐数慐物瑓瑡⹥獣†††‣楐数瀠楡⁲敧浯瑥祲‬湡浩瑡潩Ɱ愠摮朠潲灵椠普൯芔†钔铢肔匠牥楶散⽳਍铢₂†††铢肔铢₀楂摲敓癲捩⹥獣††††‣楂摲瀠票楳獣⠠牧癡瑩ⱹ樠浵Ɒ爠瑯瑡潩⥮਍铢₂†††铢肔铢₀慇敭敓癲捩⹥獣††††‣捓牯ⱥ栠杩⁨捳牯ⱥ朠浡⁥瑳瑡ⱥ朠慲散瀠牥潩൤芔†††钔铢肔匠慴敧敓癲捩⹥獣†††⌠倠灩⁥敧敮慲楴湯‬楤晦捩汵祴猠慣楬杮‬扯瑳捡敬൳芔਍铢肔铢₀汆灡祰楂摲䐮瑡⽡†††††††‣慄慴䄠捣獥⁳慌敹൲ †钔铢肔删灥獯瑩牯敩⽳਍††††铢肔铢₀慇敭敒潰挮⁳†††††‣楈桧猠潣敲映汩⁥数獲獩整据൥怊恠਍਍⌣䠠睯䤠⁴潗歲൳ഊ⌊⌣䜠浡⁥潌灯⠠〲獭琠捩⥫਍਍⸱⨠䈪物⁤桰獹捩⩳‪胢ₔ牧癡瑩⁹異汬⁳桴⁥楢摲搠睯⁮慥档映慲敭※灓捡⁥敫⁹灡汰敩⁳灵慷摲映牯散਍⸲⨠倪灩⁥潭敶敭瑮⨪钀愠汬瀠灩獥猠牣汯⁬敬瑦愠⁴扠獡卥数摥⬠猠潣敲쌠ₗ⸰怱਍⸳⨠倪灩⁥敲祣汣湩⩧‪胢ₔ桷湥愠瀠灩⁥硥瑩⁳桴⁥敬瑦攠杤ⱥ椠⁴獩爠灥獯瑩潩敮⁤潴琠敨爠杩瑨眠瑩⁨敮⁷慲摮浯瀠潲数瑲敩൳㐊‮⨪潃汬獩潩⁮敤整瑣潩⩮‪胢ₔ䅁䉂⠠硁獩䄭楬湧摥䈠畯摮湩⁧潂⥸挠敨正⁳条楡獮⁴楰数ⱳ漠獢慴汣獥‬牧畯摮‬湡⁤散汩湩൧㔊‮⨪捓牯⩥‪胢ₔ湩牣浥湥整⁤慥档琠浩⁥⁡楰数椠⁳敲祣汣摥瀠獡⁴桴⁥楢摲਍਍⌣‣楄晦捩汵祴倠潲牧獥楳湯਍਍⁼捓牯⁥⁼楐数䄠楮慭楴湯簠传捳汩慬楴湯簠䨠浵⁰慐瑴牥⁮⁼片畯⁰楐数⁳⁼潎潔捵⁨ർ簊ⴭⴭⴭ簭ⴭⴭⴭⴭⴭⴭⴭ簭ⴭⴭⴭⴭⴭⴭ簭ⴭⴭⴭⴭⴭⴭ簭ⴭⴭⴭⴭⴭⴭ簭ⴭⴭⴭⴭ簭਍⁼鎀‹⁼潎敮簠钀簠钀簠钀簠钀簠਍⁼〱胢㆓‴⁼〵‥档湡散簠㔠┰簠钀簠钀簠倠慨敳猠慰湷湩⁧ർ簊ㄠ鎀㤱簠㔠┰挠慨据⁥⁼〵‥⁼胢ₔ⁼㔴‥档湡散簠倠慨敳猠慰湷湩⁧ർ簊㈠鎀㤲簠㘠┵挠慨据⁥⁼㔶‥⁼〳‥⁼㔴‥档湡散簠倠慨敳猠慰湷湩⁧ർ簊㌠鎀㤳簠㠠┰挠慨据⁥⁼〸‥⁼〳‥⁼㔴‥档湡散簠倠慨敳猠慰湷湩⁧ർ簊㐠⬰簠㠠┰挠慨据⁥⁼〸‥⁼〳‥⁼㔶‥档湡散簠倠慨敳猠慰湷湩⁧ർഊ⌊⌣䬠祥䌠湯瑳湡獴਍਍⁼慐慲敭整⁲⁼慖畬⁥ർ簊ⴭⴭⴭⴭⴭ簭ⴭⴭⴭ簭਍⁼慃癮獡䠠楥桧⁴⁼〵瀰⁸ർ簊倠灩⁥楗瑤⁨⁼〸硰簠਍⁼慇⁰敢睴敥⁮楰数⁳⁼㠱瀰⁸ർ簊倠灩⁥灓捡湩⁧⁼㘲瀰⁸ർ簊䜠潲灵倠灩⁥灓捡湩⁧⁼〹硰簠਍⁼片癡瑩⁹⁼⸱‰数⁲牦浡⁥ർ簊䨠浵⁰瑓敲杮桴簠ⴠ〱〮簠਍⁼片捡⁥敐楲摯簠㘠‰牦浡獥簠਍਍⌣䜠瑥楴杮匠慴瑲摥਍਍⌣‣牐牥煥極楳整൳ഊⴊ嬠丮呅㘠〮崫栨瑴獰⼺搯瑯敮⹴業牣獯景⹴潣⽭潤湷潬摡 䑓ോⴊ圠湩潤獷传⁓在䙐爠煥極敲敭瑮ഩഊ⌊⌣删湵琠敨䜠浡൥ഊ怊恠慢桳਍‣汃湯⁥桴⁥敲潰楳潴祲਍楧⁴汣湯⁥爼灥ⵯ牵㹬਍摣䘠慬灰䉹物൤ഊ⌊䈠極摬愠摮爠湵਍潤湴瑥爠湵ⴠ瀭潲敪瑣倠乒ㄲ⸲㕇䘮慬灰䉹物൤怊恠਍਍⌣䌠湯牴汯൳ഊ簊䬠祥簠䄠瑣潩⁮ർ簊ⴭⴭ簭ⴭⴭⴭⴭർ簊⨠匪慰散⨪簠䘠慬⁰ 畊灭簠਍⁼⨪⩎‪⁼潔杧敬䐠祡丯杩瑨簠਍⁼⨪敒汰祡䈠瑵潴⩮‪⁼敒瑳牡⁴晡整⁲慇敭传敶⁲ർ簊⨠邆䈠瑵潴⩮‪⁼敒畴湲琠⁯潌楧⁮捳敲湥簠਍਍⌣䄠獳瑥൳ഊ簊䘠汩⁥⁼畐灲獯⁥ർ簊ⴭⴭⴭ⵼ⴭⴭⴭⴭർ簊怠楢摲汦⵹⼱⼲⸳湰恧簠䈠物⁤汦⁹灳楲整⁳㌨猠楫獮 ർ簊怠楢摲慦汬ㄭ㈯㌯瀮杮⁠⁼楂摲映污⁬灳楲整⁳㌨猠楫獮 ർ簊怠楐数搭祡港杩瑨瀮杮⁠⁼楐数猠牰瑩獥映牯攠捡⁨桴浥⁥ർ簊怠慄卹慴敧丯杩瑨瑓条⹥灪恧簠䈠捡杫潲湵⁤浩条獥簠਍⁼䑠祡片畯摮丯杩瑨片畯摮樮杰⁠⁼片畯摮椠慭敧⁳ർ簊怠汃畯ⵤ慄⽹楎桧⹴湰恧簠䌠潬摵猠牰瑩獥簠਍⁼习呯畯档瀮杮⁠⁼潎潔捵⁨扯瑳捡敬猠牰瑩⁥ർ簊怠䝂⹍灭怳簠䈠捡杫潲湵⁤畭楳⁣ർ簊怠畊灭倯楯瑮䘯楡⹬灭怳簠匠畯摮攠晦捥獴簠਍⁼䱠杯湩楗摮睯䝂洮㑰⁠⁼潌楧⁮捳敲湥瘠摩潥戠捡杫潲湵⁤ർ
+# Flappy Bird Game
+
+A feature-rich Flappy Bird clone built with **WPF (.NET)** using a clean **3-layer architecture**. Developed as a group project for the PRN212 course.
+
+## Features
+
+- **Classic Flappy Bird gameplay** -- tap Space to flap, avoid pipes and obstacles
+- **Dynamic difficulty scaling** -- speed increases, animated pipes appear, and new obstacle types spawn as your score climbs
+- **Day/Night cycle** -- smooth theme transitions triggered by in-game gates or the N key
+- **3 bird skins** -- Yellow (Classic), Green, and Purple, each with unique fly/fall sprites for both themes
+- **Animated pipes** -- oscillating, target-movement, and jump-pattern animations that intensify with score
+- **Group pipes (Staircase)** -- clusters of 2-4 pipes arranged in ascending/descending staircase formations
+- **NoTouch obstacles** -- bouncing hazards that spawn in increasing numbers after 10 pipes
+- **Gates** -- collectible portals that toggle the day/night theme
+- **Persistent high score** -- saved locally to file
+- **Background music and sound effects** -- BGM with looping, jump/point/fail SFX
+- **Video background** -- animated login screen with looping MP4
+- **Configurable pipe speed** -- adjustable from 3 to 10 via Settings
+
+## Architecture
+
+The project follows a **3-layer architecture** with clear separation of concerns:
+
+```
+FlappyBirdGame.sln
+|
++-- PRN212.G5.FlappyBird/        # Presentation Layer (WPF)
+|   +-- LoginWindow.xaml/.cs      # Login screen + BGM + video background
+|   +-- MainWindow.xaml/.cs       # Core game window & game loop
+|   +-- SelectSkin.xaml/.cs       # Bird skin selection UI
+|   +-- Views/
+|   |   +-- SettingsWindow.xaml/.cs  # Speed & volume settings
+|   +-- Helpers/
+|   |   +-- AnimationHelper.cs    # Day/night transitions, death animation
+|   |   +-- AssetHelper.cs        # Asset path & bitmap loading utilities
+|   |   +-- BirdFrameManager.cs   # Bird sprite frame management per skin/theme
+|   |   +-- GameUIRenderer.cs     # Creates & updates pipe/cloud/obstacle UI elements
+|   |   +-- SoundHelper.cs        # Sound effect playback
+|   +-- Assets/                   # Images, audio, video resources
+|
++-- FlappyBird.Business/          # Business Logic Layer
+|   +-- Models/
+|   |   +-- BirdState.cs          # Bird position, speed, rotation, animation state
+|   |   +-- CloudState.cs         # Cloud position and size
+|   |   +-- GateState.cs          # Gate position and activation status
+|   |   +-- NoTouchState.cs       # NoTouch obstacle position and oscillation
+|   |   +-- PipePairState.cs      # Pipe pair geometry, animation, and group info
+|   +-- Services/
+|       +-- BirdService.cs        # Bird physics (gravity, jump, rotation)
+|       +-- GameService.cs        # Score, high score, game state, grace period
+|       +-- StageService.cs       # Pipe generation, difficulty scaling, obstacles
+|
++-- FlappyBird.Data/              # Data Access Layer
+    +-- Repositories/
+        +-- GameRepo.cs           # High score file persistence
+```
+
+## How It Works
+
+### Game Loop (20ms tick)
+
+1. **Bird physics** -- gravity pulls the bird down each frame; Space key applies upward force
+2. **Pipe movement** -- all pipes scroll left at `baseSpeed + score * 0.1`
+3. **Pipe recycling** -- when a pipe exits the left edge, it is repositioned to the right with new random properties
+4. **Collision detection** -- AABB (Axis-Aligned Bounding Box) checks against pipes, obstacles, ground, and ceiling
+5. **Score** -- incremented each time a pipe is recycled past the bird
+
+### Difficulty Progression
+
+| Score | Pipe Animation | Oscillation | Jump Pattern | Group Pipes | NoTouch |
+|-------|---------------|-------------|-------------|-------------|---------|
+| 0-9 | None | - | - | - | - |
+| 10-14 | 50% chance | 50% | - | - | Phase spawning |
+| 15-19 | 50% chance | 50% | - | 45% chance | Phase spawning |
+| 20-29 | 65% chance | 65% | 30% | 45% chance | Phase spawning |
+| 30-39 | 80% chance | 80% | 30% | 45% chance | Phase spawning |
+| 40+ | 80% chance | 80% | 30% | 65% chance | Phase spawning |
+
+### Key Constants
+
+| Parameter | Value |
+|-----------|-------|
+| Canvas Height | 500px |
+| Pipe Width | 80px |
+| Gap between pipes | 180px |
+| Pipe Spacing | 260px |
+| Group Pipe Spacing | 90px |
+| Gravity | 1.0 per frame |
+| Jump Strength | -10.0 |
+| Grace Period | 60 frames |
+
+## Getting Started
+
+### Prerequisites
+
+- .NET 6.0+ SDK (https://dotnet.microsoft.com/download)
+- Windows OS (WPF requirement)
+
+### Run the Game
+
+```bash
+# Clone the repository
+git clone <repo-url>
+cd FlappyBird
+
+# Build and run
+dotnet run --project PRN212.G5.FlappyBird
+```
+
+## Controls
+
+| Key | Action |
+|-----|--------|
+| Space | Flap / Jump |
+| N | Toggle Day/Night |
+| Replay Button | Restart after Game Over |
+| Back Button | Return to Login screen |
+
+## Assets
+
+| File | Purpose |
+|------|---------|
+| birdfly-1/2/3.png | Bird fly sprites (3 skins) |
+| birdfall-1/2/3.png | Bird fall sprites (3 skins) |
+| Pipe-day/night.png | Pipe sprites for each theme |
+| DayStage/NightStage.jpg | Background images |
+| DayGround/NightGround.jpg | Ground images |
+| Cloud-Day/Night.png | Cloud sprites |
+| NoTouch.png | NoTouch obstacle sprite |
+| BGM.mp3 | Background music |
+| Jump/Point/Fail.mp3 | Sound effects |
+| LoginWindowBG.mp4 | Login screen video background |
