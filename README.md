@@ -1,4 +1,3 @@
-<img width="984" height="601" alt="Screenshot 2025-11-24 192818" src="https://github.com/user-attachments/assets/888a2e28-2549-4f60-bf59-301bbaddcb5b" /><img width="978" height="598" alt="Screenshot 2025-11-24 193620" src="https://github.com/user-attachments/assets/07fa87aa-74f3-47ae-9832-4e995ebc2fe9" /><img width="982" height="598" alt="Screenshot 2025-11-24 192738" src="https://github.com/user-attachments/assets/f25e4cf7-1ac9-4626-b299-452113bee036" /># Flappy Bird Game
 
 A feature-rich Flappy Bird clone built with **WPF (.NET)** using a clean **3-layer architecture**. Developed as a group project for the PRN212 course.
 
