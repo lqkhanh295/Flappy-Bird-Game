@@ -1,4 +1,4 @@
-# Flappy Bird Game
+<img width="984" height="601" alt="Screenshot 2025-11-24 192818" src="https://github.com/user-attachments/assets/888a2e28-2549-4f60-bf59-301bbaddcb5b" /><img width="978" height="598" alt="Screenshot 2025-11-24 193620" src="https://github.com/user-attachments/assets/07fa87aa-74f3-47ae-9832-4e995ebc2fe9" /><img width="982" height="598" alt="Screenshot 2025-11-24 192738" src="https://github.com/user-attachments/assets/f25e4cf7-1ac9-4626-b299-452113bee036" /># Flappy Bird Game
 
 A feature-rich Flappy Bird clone built with **WPF (.NET)** using a clean **3-layer architecture**. Developed as a group project for the PRN212 course.
 
@@ -130,3 +130,11 @@ dotnet run --project PRN212.G5.FlappyBird
 | BGM.mp3 | Background music |
 | Jump/Point/Fail.mp3 | Sound effects |
 | LoginWindowBG.mp4 | Login screen video background |
+
+<img width="982" height="598" alt="Screenshot 2025-11-24 192738" src="https://github.com/user-attachments/assets/599a4355-f6ab-4e2e-b1c2-5ff79ed0d86d" />
+<img width="736" height="543" alt="Screenshot 2025-11-24 201006" src="https://github.com/user-attachments/assets/53c52317-17d1-4aba-b3d4-4a8d0c04409d" />
+<img width="406" height="593" alt="Screenshot 2025-11-24 201020" src="https://github.com/user-attachments/assets/77b0c3b7-b815-448d-91ff-bcc63b4d342f" />
+<img width="986" height="603" alt="Screenshot 2025-11-24 201042" src="https://github.com/user-attachments/assets/5dbd1512-a97d-4de3-b2f5-ff3eaa6b0ff9" />
+<img width="986" height="603" alt="Screenshot 2025-11-24 201050" src="https://github.com/user-attachments/assets/e50bf061-6c43-4670-bd16-feb88b9f16d2" />
+
+
